@@ -126,7 +126,7 @@ Y= A⊕B
 ```
 Developed by: M.vivek reddy
 Reg no: 212221240030
-```
+~~~
 module Exp1(a,b,andgate,notgate,orgate,nandgate,norgate,xorgate,xnorgate);
 input a,b;
 output andgate,orgate,notgate,norgate,nandgate,xorgate,xnorgate;
