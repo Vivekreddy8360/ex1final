@@ -140,11 +140,11 @@ endmodule
 ~~~
 ## RTL Schematic:
 
+![image](https://github.com/Vivekreddy8360/ex1final/assets/94525701/72cee9e2-d386-49ae-b55a-19eab3cfdc71)
 
 ## Timing Diagram:
 
-
-
+![image](https://github.com/Vivekreddy8360/ex1final/assets/94525701/8f5df7bc-aab3-4088-bab8-e0bcfc2fffb5)
 
 ## Result:
 
