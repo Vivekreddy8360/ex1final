@@ -138,7 +138,7 @@ nor(norgate,a,b);
 xor(xorgate,a,b);
 xnor(xnorgate,a,b);
 endmodule
-```
+~~~
 ## RTL Schematic:
 
 
