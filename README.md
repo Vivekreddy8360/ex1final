@@ -123,10 +123,10 @@ Y= A⊕B
 5.	For different input combinations, generate the timing diagram.
 
 ## Program:
-```
-Developed by: M.vivek reddy
-Reg no: 212221240030
 ~~~
+### Developed by: M.vivek reddy
+### Reg no: 212221240030
+
 module Exp1(a,b,andgate,notgate,orgate,nandgate,norgate,xorgate,xnorgate);
 input a,b;
 output andgate,orgate,notgate,norgate,nandgate,xorgate,xnorgate;
