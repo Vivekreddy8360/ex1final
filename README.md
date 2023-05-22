@@ -123,6 +123,7 @@ Y= A⊕B
 5.	For different input combinations, generate the timing diagram.
 
 ## Program:
+```
 Developed by: M.vivek reddy
 Reg no: 212221240030
 ```
